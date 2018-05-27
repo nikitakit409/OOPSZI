@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\nikita\desktop\2\lab3\source.cpp(7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\nikita\desktop\2\lab3\source.cpp(7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "isInArea"
+c:\users\nikita\desktop\2\lab3\source.cpp(8): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\nikita\desktop\2\lab3\source.cpp(8): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\nikita\desktop\2\lab3\source.cpp(36): error C3861: isInArea: идентификатор не найден
+c:\users\nikita\desktop\2\lab3\source.cpp(44): warning C4244: =: преобразование "double" в "float", возможна потеря данных

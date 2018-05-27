@@ -1,0 +1,22 @@
+﻿  laba5.cpp
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(29): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(29): error C2433: ostream: "friend" не разрешается для объявлений данных
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(29): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(33): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(33): error C2433: istream: "friend" не разрешается для объявлений данных
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(33): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(33): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(141): error C2065: in: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(142): error C2065: out: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(142): error C2065: end: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(143): error C2065: out: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(143): error C2065: end: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(144): error C2065: out: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(144): error C2065: end: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(145): error C2065: out: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(145): error C2065: end: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(146): error C2065: out: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(146): error C2065: end: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(147): error C2065: out: необъявленный идентификатор
+c:\users\ramaz\documents\visual studio 2017\projects\project5\project5\laba5.cpp(147): error C2065: end: необъявленный идентификатор

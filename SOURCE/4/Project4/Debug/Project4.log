@@ -1,0 +1,31 @@
+﻿  task9.c
+  task8.c
+c:\users\nikita\desktop\4\4\project4\task8.c(8): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nikita\desktop\4\4\project4\task8.c(9): warning C4013: zadanie4: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nikita\desktop\4\4\project4\task8.c(10): warning C4013: zadanie5: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nikita\desktop\4\4\project4\task8.c(11): warning C4013: zadanie6: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nikita\desktop\4\4\project4\task8.c(12): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  task7.c
+c:\users\nikita\desktop\4\4\project4\task7.c(8): warning C4013: zadanie4: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nikita\desktop\4\4\project4\task7.c(9): warning C4013: zadanie5: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nikita\desktop\4\4\project4\task7.c(10): warning C4013: zadanie6: нет определения; предполагается "extern" с возвратом типа "int"
+  task6.c
+c:\users\nikita\desktop\4\4\project4\task6.c(23): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nikita\desktop\4\4\project4\task6.c(4): fatal error C1075: в конце файла обнаружен левый непарный фигурная скобка "{"
+  task5.c
+  task4.c
+  task3.c
+c:\users\nikita\desktop\4\4\project4\task3.c(6): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nikita\desktop\4\4\project4\task3.c(11): warning C4013: zadanie1: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nikita\desktop\4\4\project4\task3.c(13): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  task2.c
+c:\users\nikita\desktop\4\4\project4\task2.c(10): warning C4013: zadanie1: нет определения; предполагается "extern" с возвратом типа "int"
+  task1.c
+  Создание кода...
+c:\users\nikita\desktop\4\4\project4\task1.c(14): warning C4716: zadanie1: должна возвращать значение
+c:\users\nikita\desktop\4\4\project4\task2.c(12): warning C4716: zadanie2: должна возвращать значение
+c:\users\nikita\desktop\4\4\project4\task3.c(14): warning C4716: zadanie3: должна возвращать значение
+c:\users\nikita\desktop\4\4\project4\task4.c(10): warning C4716: zadanie4: должна возвращать значение
+c:\users\nikita\desktop\4\4\project4\task5.c(9): warning C4716: zadanie5: должна возвращать значение
+c:\users\nikita\desktop\4\4\project4\task7.c(11): warning C4716: zadanie7: должна возвращать значение
+c:\users\nikita\desktop\4\4\project4\task8.c(13): warning C4716: zadanie8: должна возвращать значение

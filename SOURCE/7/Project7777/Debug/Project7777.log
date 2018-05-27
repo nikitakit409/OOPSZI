@@ -1,0 +1,20 @@
+﻿  lb2.cpp
+c:\users\lera\documents\visual studio 2017\projects\project7777\project7777\lb2.cpp(248): warning C4101: ex: неиспользованная локальная переменная
+  c:\users\lera\documents\visual studio 2017\projects\project7777\project7777\lb2.cpp(240): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\lera\documents\visual studio 2017\projects\project7777\project7777\lb2.cpp(346): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Stack<int>::Push(const T &)"
+          with
+          [
+              T=int
+          ]
+  c:\users\lera\documents\visual studio 2017\projects\project7777\project7777\lb2.cpp(334): note: выполняется компиляция ссылки на экземпляр шаблон класс "Stack<int>"
+c:\users\lera\documents\visual studio 2017\projects\project7777\project7777\lb2.cpp(288): warning C4101: ex: неиспользованная локальная переменная
+  c:\users\lera\documents\visual studio 2017\projects\project7777\project7777\lb2.cpp(280): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\lera\documents\visual studio 2017\projects\project7777\project7777\lb2.cpp(340): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Stack<int>::Pop(T &)"
+          with
+          [
+              T=int
+          ]
+c:\users\lera\documents\visual studio 2017\projects\project7777\project7777\lb2.cpp(324): warning C4101: ex: неиспользованная локальная переменная
+  c:\users\lera\documents\visual studio 2017\projects\project7777\project7777\lb2.cpp(316): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+lb2.obj : error LNK2005: _main єцх юяЁхфхыхэ т lb1.obj
+c:\users\lera\documents\visual studio 2017\Projects\Project7777\Debug\Project7777.exe : fatal error LNK1169: юсэрЁєцхэ ьэюуюъЁрЄэю юяЁхфхыхээ√щ ёшьтюы - юфшэ шыш сюыхх
